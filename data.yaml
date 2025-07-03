@@ -1,0 +1,13 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 11
+names: ['Asian_green_bee_eater', 'Cattle_egret', 'Crow', 'Hoopoe', 'Kingfisher', 'Myna', 'Peacock', 'Rosefinch', 'Schelduck', 'Tailorbird', 'Wagtail']
+
+roboflow:
+  workspace: crisp-btsit
+  project: birds-ziqxz
+  version: 1
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/crisp-btsit/birds-ziqxz/dataset/1
