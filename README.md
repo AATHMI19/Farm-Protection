@@ -57,7 +57,7 @@ _____________________________________________________________________
 > If you're replicating the project, follow these steps:
 1. **Clone this repository**  
    ```bash
-   git clone https://github.com/your-username/farm-guard
+   git clone https://github.com/AATHMI19/farm-guard
    cd farm-guard
 2.Upload Code to Arduino
 3.Open farm_guard.ino in Arduino IDE
